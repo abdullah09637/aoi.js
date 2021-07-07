@@ -1,4 +1,4 @@
-declare module "aoi.js" {
+declare module "engdis.js" {
   import { Client } from "discord.js";
   import { EventEmitter } from "events";
 
